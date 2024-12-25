@@ -38,6 +38,8 @@ npm run build
 npm run lint
 ```
 
+## 教程
+
 ## 1、首先要安装node.js(18.3 或更高版本)
 
 ## 2、创建[vue3](https://cn.vuejs.org/guide/quick-start.html)项目
